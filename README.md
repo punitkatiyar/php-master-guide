@@ -10,3 +10,6 @@ core php step by step
 > Control Statement 
 
 > PHP Loops 
+
+## PHP Function
+
