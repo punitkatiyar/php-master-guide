@@ -1,0 +1,16 @@
+*{ margin: 0; padding: 0; box-sizing: border-box;}
+header{ padding: 2%; background-color: royalblue;}
+header a{ font-size: 2rem; text-decoration: none; color: white;}
+nav{padding:0.50% 2%; background-color: tomato;}
+nav ul{ display: flex;}
+nav ul li{ list-style: none; margin-right: 20px;}
+nav ul li a{ text-decoration: none; color: white; text-transform: uppercase;}
+.mid{ width: 96%; margin: auto; border: 1px solid black; min-height: 700px; display: flex; margin-top: 10px;}
+.mid_left{ width: 70%;}
+article{ padding: 1%;}
+article h1{ padding: 1%; background-color: teal; color: white;}
+article p{ line-height: 1.2; text-align: justify;}
+article ul{ display: flex;}
+article ul li{ padding: 1%; list-style: none; background-color: whitesmoke;}
+.mid_right{ width: 29%;}
+footer{padding: 2%; background-color: royalblue; margin-top: 10px;}
