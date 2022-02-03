@@ -1,0 +1,24 @@
+*{ margin: 0; padding: 0;}
+.bg{ background-color: whitesmoke;}
+.bg1{ background-color: royalblue;}
+.bg2{ background-color: tomato;}
+.bg3{ background-color: yellowgreen;}
+.bg4{ background-color: violet;}
+.fl{ float: left;}
+.fr{ float: right;}
+.new{ float: left; margin-left: 1%;}
+.clr{ clear: both;}
+.mb-1{ margin-bottom: 5px;}
+.row{ margin-bottom: 10px;}
+.col-4{ width: 24.25%; height: 250px;}
+.head{ height: 100px;}
+.logo{ font-size: 2rem; text-decoration: none; color: wheat; line-height: 100px; padding: 2%;}
+.nav{ height: 40px;}
+.nav ul li{ display: inline;}
+.nav ul li a{ text-decoration: none; color: white; padding: 1% 2%; line-height: 40px;}
+.banner{ height: 550px;}
+.mid{ min-height: 600px;}
+p{ text-align: justify;}
+.mid-left{width:75%; min-height: 600px;}
+.mid-right{ width:24.25%; min-height: 600px;}
+.footer{ padding: 2%; text-align: center; color: white;}

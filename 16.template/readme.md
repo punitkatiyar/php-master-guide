@@ -1,9 +1,9 @@
-# template 
+# dynamic template
 
-> static
+> include("") | include ' ' | include " "
 
-> dynamic
+> include_once ()
 
-> master page
+> require()
 
-> function base
+> require_once ()
