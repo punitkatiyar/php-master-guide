@@ -1,6 +1,6 @@
-# php
+# php Master Guide
 
-## core php step by step
+## php Basic Module
 
 > Variable 
 
@@ -10,7 +10,7 @@
 
 > PHP Loops 
 
-## PHP Function
+## PHP Function Module
 
 > define the function
 
