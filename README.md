@@ -1,9 +1,8 @@
 # php
-core php step by step
 
-> Variable
+## core php step by step
 
-> 
+> Variable 
 
 > Data Type
 
