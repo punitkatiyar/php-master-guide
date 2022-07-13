@@ -1,3 +1,4 @@
+<pre>
 <?php
 echo '<pre>';
 print_r($_GET);
@@ -48,3 +49,4 @@ $demo=array("Admin","User","Gest","Hepler");
 </body>
 
 </html>
+</pre>
