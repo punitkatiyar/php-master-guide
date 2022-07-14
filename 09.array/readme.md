@@ -1,16 +1,11 @@
 <pre>
-<?php
-echo '<pre>';
 print_r($_GET);
 print_r($_POST);
 print_r($_REQUEST);
-echo '</pre>';
 extract($_REQUEST);
 $demo=array("Admin","User","Gest","Hepler");
 
-?>
-
-    <form method="post">
+<form method="post">
         <p><input type="text" name="uname" placeholder="Enter Your Name"></p>
         <p><input type="submit" name="go" value="Dispaly Card"></p>
     </form>
