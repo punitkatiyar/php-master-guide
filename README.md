@@ -2,6 +2,8 @@
 
 **PHP (Hypertext Preprocessor) is a server-side scripting language that is used to develop web applications and dynamic websites. It was created in 1994 by Rasmus Lerdorf, and since then, it has evolved into a widely used programming language for building web-based applications.**
 
+**PHP is particularly useful for creating dynamic web pages because it allows you to embed HTML, CSS, and JavaScript code directly into the PHP code. It also has a wide range of built-in functions and features that make it easy to work with databases, process user input, and generate dynamic content.**
+
 ## PHP Basic Module
 
 > Variable 
