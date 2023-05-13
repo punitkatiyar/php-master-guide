@@ -1,4 +1,4 @@
-<pre>
+```
 print_r($_GET);
 print_r($_POST);
 print_r($_REQUEST);
@@ -28,9 +28,4 @@ $demo=array("Admin","User","Gest","Hepler");
     <div class="card">
         <h1><?php echo @$_POST['uname'];?></h1>
     </div>
-
-
-</body>
-
-</html>
-</pre>
+```
