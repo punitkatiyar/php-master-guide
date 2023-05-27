@@ -20,9 +20,9 @@
         $num ++;
     }
 ```
-  
-  ```
-   ## do while loop in PHP
+
+## do while loop in PHP
+
 ```
     $i=1;
     do{
@@ -37,9 +37,9 @@
     {
         echo "<h1>$a</h1>"; 
     }
-
-    //foreach
-
+```
+## foreach loop in PHP
+```
     $color=array("red","green","blue","yellow");
     echo $color[0].'<hr>';
     echo $color[1].'<hr>';
