@@ -10,17 +10,20 @@
 
 <hr>
 
+## while Loop in PHP 
+
 ```
-<?php
-    //while 
     $num=1;
     while($num<=5)
     {
         echo "<h1>$num</h1>";
         $num ++;
     }
-    //do while
-
+```
+  
+  ```
+   ## do while loop in PHP
+```
     $i=1;
     do{
        echo "<h1>$i</h1>"; 
