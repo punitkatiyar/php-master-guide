@@ -55,14 +55,20 @@ if(isset($_POST['ulogin']))
 
 # Register user account info 
 
-# [uId] id : admin (during database)
+## [uId] id : admin (during database)
 
-> [uName] name : text
-> 
-        [uEmail]email : email
-        [uPass] password : password
-        [uCat] catagory : radio
-        [uDob] DOB : date
-        [uCourse]course : select
-        [uTime] Time : time
-        [uMobile]mobile : tel
+## [uName] name : text
+
+## [uEmail]email : email
+
+## [uPass] password : password
+
+## [uCat] catagory : radio
+
+## [uDob] DOB : date
+
+## [uCourse]course : select
+
+## [uTime] Time : time
+
+## [uMobile]mobile : tel
