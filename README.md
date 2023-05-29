@@ -42,4 +42,11 @@
 
 > inheritance 
 
-> 
+## .htacess File
+
+```
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^?]+)/?$ /index.php?slug=$1 [L,QSA]
+
+```
