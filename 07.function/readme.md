@@ -1,16 +1,16 @@
 # function 
 
-> define the function
+> **define the function**
 
-> call the function
+> **call the function**
 
-> passing the argument
+> **Passing the argument**
 
-> settting default value
+> **settting default value**
 
-> return the value
+> **return the value
 
-> multiple return
+> **multiple return
 
 
 card : user data => array
