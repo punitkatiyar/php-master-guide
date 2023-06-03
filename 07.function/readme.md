@@ -8,9 +8,9 @@
 
 > **settting default value**
 
-> **return the value
+> **return the value**
 
-> **multiple return
+> **multiple return**
 
 
 card : user data => array
