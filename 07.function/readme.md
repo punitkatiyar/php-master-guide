@@ -12,6 +12,19 @@
 
 > **multiple return**
 
+<hr>
 
-card : user data => array
+## Example One
+
+```
+// define the function
+function hello(){
+    // function body
+    $test="<h1>Hello Function</h1>";
+    echo $test;
+}
+// call the function
+hello();
+```
+
 
