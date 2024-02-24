@@ -1,6 +1,4 @@
-### waht is php ?
-
-### scripting vs program
+### scripting language vs program language.
 
 ### php history
 
