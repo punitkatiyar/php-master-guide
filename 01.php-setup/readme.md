@@ -1,12 +1,15 @@
-### scripting language vs program language.
+# PHP Master Guide
 
-### php history
 
-### featere of php
+> scripting language vs program language.
 
-### why we choss php
+> php history
 
-### php Stack wamp,lamp,mamp,xamp 
+> featere of php
+
+> why we choss php
+
+> php Stack wamp,lamp,mamp,xamp 
 
 <hr>
 
