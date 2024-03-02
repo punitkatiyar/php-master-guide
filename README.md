@@ -4,6 +4,18 @@
 
 **PHP is particularly useful for creating dynamic web pages because it allows you to embed HTML, CSS, and JavaScript code directly into the PHP code. It also has a wide range of built-in functions and features that make it easy to work with databases, process user input, and generate dynamic content.**
 
+
+## PHP On Window Command Prompt
+
+> php -v
+
+> php file_name.php
+
+> php -S localhost:port -t your_app/
+
+
+
+
 ## PHP Basic Module
 
 > Variable 
