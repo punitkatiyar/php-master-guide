@@ -11,7 +11,7 @@
 
 > php file_name.php
 
-**Start the PHP Development Server:** 
+## Start the PHP Development Server
 
 > php -S localhost:8000
 
