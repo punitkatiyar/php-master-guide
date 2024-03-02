@@ -11,7 +11,11 @@
 
 > php file_name.php
 
-> php -S localhost:port -t your_app/
+**Start the PHP Development Server:** 
+
+> php -S localhost:8000
+
+> php -S localhost:8000 -t public router.php
 
 
 
