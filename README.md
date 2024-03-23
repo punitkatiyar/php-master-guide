@@ -7,6 +7,8 @@
 
 ## PHP On Window Command Prompt
 
+> install composer 
+
 > php -v
 
 > php file_name.php
