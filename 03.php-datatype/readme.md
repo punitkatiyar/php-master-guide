@@ -1,10 +1,10 @@
 # PHP DataType
 
-> Scalar Data Types – store single values
+> Scalar Data Types – store single values ( String, Integer, Float (Double), Boolean )
 
-> Compound Data Types – store multiple values
+> Compound Data Types – store multiple values (Array , Object )
 
-> Special Data Types – store special references or no value
+> Special Data Types – store special references or no value ( NULL, Resource )
 
 
 
