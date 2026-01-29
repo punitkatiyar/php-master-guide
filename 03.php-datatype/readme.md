@@ -1,3 +1,16 @@
+# PHP DataType
+
+> Scalar
+
+> Compound
+
+> Special
+
+
+
+
+
+
 ```
 print_r($_GET);
 print_r($_POST);
